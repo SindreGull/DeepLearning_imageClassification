@@ -14,8 +14,13 @@ Features of the mpodel include:
 ## Files in this repository
 
 ─ ML4.py is the core model training and evaluation logic
+
 - Main.py contains the basic statistics and result summary
+
 ─ Xtrain_Classification2.npy contains the flattened training images
+
 ─ ytrain_Classification2.npy are the training labels
+
 ─ Xtest_Classification2.npy contains the flattened images for the testing of teh model
+
 ─ test_predictions.npy are the saved predictions on the test set
