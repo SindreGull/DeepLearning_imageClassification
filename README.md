@@ -13,9 +13,9 @@ Features of the mpodel include:
 
 ## Files in this repository
 
-─ ML4.py is the core model training and evaluation logic
+─ CodebaseDL.py is the core model training and evaluation logic
 
-- CodebaseDL.py contains the basic statistics and result summary
+- main.py contains the basic statistics and result summary
 
 ─ Xtrain_Classification2.npy contains the flattened training images
 
